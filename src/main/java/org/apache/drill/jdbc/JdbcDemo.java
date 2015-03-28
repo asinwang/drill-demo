@@ -13,7 +13,7 @@ import com.google.common.base.Stopwatch;
 import com.google.common.base.Strings;
 
 /**
- * Unit test for simple App.
+ * Unit test for simple JdbcDemo.
  */
 public class JdbcDemo {
 	private static CachingConnectionFactory factory;
